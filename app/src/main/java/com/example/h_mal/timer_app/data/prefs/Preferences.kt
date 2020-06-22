@@ -2,7 +2,7 @@ package com.example.h_mal.timer_app.data.prefs
 
 import android.content.Context
 import android.content.SharedPreferences
-import android.preference.PreferenceManager
+import androidx.preference.PreferenceManager
 
 
 const val TimerConstant = "TIMER_CONSTANT"
